@@ -1,4 +1,4 @@
-goa = ["goa", "is", "the","best"]
+goa = [" goa ", " is ", " the ", " best "]
 result =''
 
 for i in range(1):
